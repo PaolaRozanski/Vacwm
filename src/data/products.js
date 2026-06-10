@@ -12,7 +12,7 @@ export const produtos = [
     imagem:
       '/images/jblfoone 2.png',
     salvar: false,
-    quant_avaliacao: 10,
+    quant_avaliacao: 12,
   },
 
   {
@@ -28,7 +28,7 @@ export const produtos = [
     imagem:
       '/images/headfone 2.png',
     salvar: false,
-    quant_avaliacao: 30,
+    quant_avaliacao: 31,
   },
 
   {
@@ -76,7 +76,7 @@ export const produtos = [
     imagem:
       '/images/phoneejbl 2.png',
     salvar: false,
-    quant_avaliacao: 20,
+    quant_avaliacao: 16,
   },
   
   {
@@ -108,7 +108,7 @@ export const produtos = [
     imagem:
       '/images/phoneejbl 2.png',
     salvar: false,
-    quant_avaliacao: 20,
+    quant_avaliacao: 58,
   },
 
   {
@@ -124,10 +124,11 @@ export const produtos = [
     imagem:
       '/images/earinJBL.webp',
     salvar: false,
-    quant_avaliacao: 20,
+    quant_avaliacao: 42,
   },
 
   {
+  quant_avaliacao: 62, 
   id: 9,
   nome: 'JBL Pulse X',
   marca: 'JBL',
@@ -160,7 +161,7 @@ export const produtos = [
 
 {
   id: 11,
-  quant_avaliacao: 20, 
+  quant_avaliacao: 37, 
   nome: 'JBL Wave Buds',
   marca: 'JBL',
   categoria: 'Unobtrusive',
@@ -176,7 +177,7 @@ export const produtos = [
 
 {
   id: 12,
-  quant_avaliacao: 20, 
+  quant_avaliacao: 55, 
   nome: 'Bose WH-CH520',
   marca: 'Bose',
   categoria: 'Confort',
@@ -304,7 +305,7 @@ export const produtos = [
 
 {
   id: 20,
-  quant_avaliacao: 30, 
+  quant_avaliacao: 36, 
   nome: 'JBL Quantum 400',
   marca: 'JBL',
   categoria: 'Premium',
