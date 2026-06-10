@@ -266,7 +266,7 @@ export const produtos = [
   descricao:
     'Headset gamer premium com som espacial.',
   imagem:
-    '/images/sonyfone.png',
+    '/images/fonedabose.avif',
   salvar: false,
 },
 
